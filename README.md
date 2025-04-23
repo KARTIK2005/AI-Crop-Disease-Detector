@@ -40,10 +40,15 @@ Upload a clear image of a plant leaf, and the model will predict the most likely
 
 AI-Crop-Disease-Detector/
 ├── app.py                  # Streamlit web app
+<br>
 ├── crop_disease_model.h5   # Trained Keras model
+<br>
 ├── class_labels.json       # Label mapping
+<br>
 ├── history.pkl             # (Optional) Training history
+<br>
 ├── README.md               # Project overview
+<br>
 └── requirements.txt        # Dependencies
 
 📦 Requirements
