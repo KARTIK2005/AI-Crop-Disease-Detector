@@ -39,6 +39,7 @@ Upload a clear image of a plant leaf, and the model will predict the most likely
 🗂️ Project Structure
 
 AI-Crop-Disease-Detector/
+<br>
 ├── app.py                  # Streamlit web app
 <br>
 ├── crop_disease_model.h5   # Trained Keras model
@@ -54,10 +55,15 @@ AI-Crop-Disease-Detector/
 📦 Requirements
 
 Python 3.7+
+<br>
 Streamlit
+<br>
 TensorFlow
+<br>
 Pillow
+<br>
 NumPy
+<br>
 
 You can install all dependencies using:
 
