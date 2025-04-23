@@ -1,5 +1,3 @@
-# AI-Crop-Disease-Detector
-
 # 🌿 AI Crop Disease Detector
 
 A Deep Learning-powered web application built with **TensorFlow** and **Streamlit** to detect plant diseases from leaf images. This tool is designed to help farmers and agriculturalists quickly identify diseases and take appropriate actions.
